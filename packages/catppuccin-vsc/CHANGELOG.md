@@ -1,5 +1,26 @@
 # Changelog
 
+## [3.14.0](https://github.com/Lichthagel/catppuccin-vscode/compare/catppuccin-vsc-v3.13.0...catppuccin-vsc-v3.14.0) (2024-04-22)
+
+
+### Features
+
+* **compiler:** add verbose errors for wrong user config ([#288](https://github.com/Lichthagel/catppuccin-vscode/issues/288)) ([8162693](https://github.com/Lichthagel/catppuccin-vscode/commit/816269379fa8b2a7093f20ee774f770d8a48ec01))
+* **options:** add option to disable icon pack sync ([#348](https://github.com/Lichthagel/catppuccin-vscode/issues/348)) ([54f5685](https://github.com/Lichthagel/catppuccin-vscode/commit/54f5685f28ece588e9939f2ad02f903260f4d1c7))
+* rework selection background ([#342](https://github.com/Lichthagel/catppuccin-vscode/issues/342)) ([08c34c0](https://github.com/Lichthagel/catppuccin-vscode/commit/08c34c0758500d2d73fff7ca3742283936749beb))
+* **syntax:** add dedicated highlighting for regex ([db58ea2](https://github.com/Lichthagel/catppuccin-vscode/commit/db58ea28d502d8f27c8989526502efed921408b5))
+
+
+### Bug Fixes
+
+* settings json schema URL typo ([#272](https://github.com/Lichthagel/catppuccin-vscode/issues/272)) ([acc33aa](https://github.com/Lichthagel/catppuccin-vscode/commit/acc33aaefd0041028202cbe8ab3d02c0c6a9436d))
+* **syntax:** JS `of` and `infer` expressions ([#312](https://github.com/Lichthagel/catppuccin-vscode/issues/312)) ([b9e9d75](https://github.com/Lichthagel/catppuccin-vscode/commit/b9e9d754c06d846f13fb7f4a908cfafbad5fd1ad))
+* **syntax:** JSDoc params color, `typeof` as keyword ([c6d63be](https://github.com/Lichthagel/catppuccin-vscode/commit/c6d63be0421cd7548c3b87bea5e8bb73f1a93d1c))
+* **ui:** command center appearance, de-emphasize borders ([#267](https://github.com/Lichthagel/catppuccin-vscode/issues/267)) ([a822dfd](https://github.com/Lichthagel/catppuccin-vscode/commit/a822dfdee0ee26067ac2a4d0de5aacd079d9d567))
+* **ui:** selection color for non-editor context ([#330](https://github.com/Lichthagel/catppuccin-vscode/issues/330)) ([d3c0b6a](https://github.com/Lichthagel/catppuccin-vscode/commit/d3c0b6aa05d8e2adff2c8de207845e2e0f211740))
+* **ui:** style `activityBarTop`  ([#316](https://github.com/Lichthagel/catppuccin-vscode/issues/316)) ([a5c28e9](https://github.com/Lichthagel/catppuccin-vscode/commit/a5c28e9319556c696e184a2f2f49813288063ed6))
+* **ui:** unverified breakpoints ([#311](https://github.com/Lichthagel/catppuccin-vscode/issues/311)) ([4882feb](https://github.com/Lichthagel/catppuccin-vscode/commit/4882feb791b7c38116ffe9b729d5769de892e488))
+
 ## [3.13.0](https://github.com/catppuccin/vscode/compare/catppuccin-vsc-v3.12.0...catppuccin-vsc-v3.13.0) (2024-03-15)
 
 
